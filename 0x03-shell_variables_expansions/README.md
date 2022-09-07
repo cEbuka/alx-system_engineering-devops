@@ -1,0 +1,18 @@
+0-alias: Script for aliaising ls to rm *
+1-hello_you: The script prints hello with username of the user
+2-path: Script to add /action directory to PATH variable
+3-paths: script that counts the number of directories in the PATH
+4-global_variables: Create a script that lists environment variables.
+5-local variables: Create a script that lists all local variables and environment variables, and functions.
+6-create_local_variable: Create a script that creates a new local variable.
+7-create_global_variable: Create a script that creates a new global variable.
+8-true_knowledge: Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
+9-divide_and_rule: Write a script that prints the result of POWER divided by DIVIDE, followed by a new line
+10-love_exponent_breath: 10-love_exponent_breath
+11-binary_to_decimal: Write a script that converts a number from base 2 to base 10.
+12-combinations: Create a script that prints all possible combinations of two letters, except oo
+13-print_float: Write a script that prints a number with two decimal places, followed by a new line.
+100-decimal_to_hexadecimal: Write a script that converts a number from base 10 to base 16.
+101-rot13: Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+102-odd: Write a script that prints every other line from the input, starting with the first line.
+103-water_and_stir: Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
